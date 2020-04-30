@@ -5,6 +5,8 @@
 <b>PASSWORD</b> : navydesignpage</p>
 <b>อย่าลืมแก้ไข database ที่ system/connect.php</b></p>
 </p>
+กรุณาอย่าลบ CopyRight เลยนะครับทำมาเหนื่อยขอ Credit นิดนึง กราบบบบบบ =/\=
+</p>
 ดูตัวอย่างได้ที่ : https://www.youtube.com/watch?v=cwbsxXC8Xu4
 </p>
 
