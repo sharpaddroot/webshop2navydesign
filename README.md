@@ -3,7 +3,7 @@
 <b>เข้าไปแก้หน้าเว็บด้วยการ Login</p></b>
 <b>USERNAME</b> : navydesign</p>
 <b>PASSWORD</b> : navydesignpage</p>
-<b>อย่าลืมแก้ไข database ที่ Connections/myconnect.php</b></p>
+<b>อย่าลืมแก้ไข database ที่ system/connect.php</b></p>
 </p>
 ดูตัวอย่างได้ที่ : https://www.youtube.com/watch?v=cwbsxXC8Xu4
 </p>
